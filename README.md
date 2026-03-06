@@ -1,6 +1,6 @@
 # @ava/get-port
 
-AVA 4 plugin which works like [`get-port`](https://github.com/sindresorhus/get-port), but ensures the port is locked across all test files.
+AVA 4 plugin which works like [`get-port`](https://github.com/Unity-Billal-mesloub/get-port-1), but ensures the port is locked across all test files.
 
 Install this as a development dependency alongside AVA itself:
 
