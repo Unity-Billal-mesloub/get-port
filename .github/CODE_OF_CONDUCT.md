@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-Translations: [Español](https://github.com/avajs/ava-docs/blob/master/es_ES/code-of-conduct.md), [Français](https://github.com/avajs/ava-docs/blob/master/fr_FR/code-of-conduct.md), [Italiano](https://github.com/avajs/ava-docs/blob/master/it_IT/code-of-conduct.md), [日本語](https://github.com/avajs/ava-docs/blob/master/ja_JP/code-of-conduct.md), [Português](https://github.com/avajs/ava-docs/blob/master/pt_BR/code-of-conduct.md), [Русский](https://github.com/avajs/ava-docs/blob/master/ru_RU/code-of-conduct.md), [简体中文](https://github.com/avajs/ava-docs/blob/master/zh_CN/code-of-conduct.md)
+Translations: [Español](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/es_ES/code-of-conduct.md), [Français](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/fr_FR/code-of-conduct.md), [Italiano](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/it_IT/code-of-conduct.md), [日本語](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/ja_JP/code-of-conduct.md), [Português](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/pt_BR/code-of-conduct.md), [Русский](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/ru_RU/code-of-conduct.md), [简体中文](https://github.com/Unity-Billal-mesloub/ava-docs/blob/main/zh_CN/code-of-conduct.md)
 
 ## Our Pledge
 
@@ -57,7 +57,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at sindresorhus@gmail.com. All
+reported by contacting the project team at mesloub2021@gmail.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -67,10 +67,4 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
-
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
